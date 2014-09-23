@@ -1,0 +1,16 @@
+Index: app/src/main/java/com/example/evgeny/schedule/MainActivity.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/com/example/evgeny/schedule/MainActivity.java	(revision )
++++ app/src/main/java/com/example/evgeny/schedule/MainActivity.java	(revision )
+@@ -19,7 +19,7 @@
+ 
+ 
+ public class MainActivity extends Activity {
+-    public void reader()
++
+     {
+ 
+ 

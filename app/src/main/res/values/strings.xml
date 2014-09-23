@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Schedule</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="changelog_full_title">Change Log</string>
+    <string name="changelog_title">Что нового?</string>
+    <string name="changelog_ok_button">OK</string>
+    <string name="changelog_show_full">Больше...</string>
+    <string name="offline_mod_false"> </string>
+    <string name="offline_mod_true">Не удалось "\n" обновить</string>
+    <string name="offline_mod_ndf">О.Ф.С.</string>
+    <string name="offline_mod_wait">Ожидаем "\n" обновления</string>
+    <string name="tomorrow">Уроки на завтра!</string>
+    <string name="today">Уроки на сегодня!</string>
+    <string name="schedule_for">Уроки на </string>
+    <string name="last_update">Последнее обновление: </string>
+    <string name="ahead">Вперед</string>
+    <string name="back">Назад</string>
+    <string name="refresh">Обновить</string>
+    <string name="l1s">800</string>
+    <string name="l1f">840</string>
+    <string name="l2s">850</string>
+    <string name="l2f">930</string>
+    <string name="l3s">940</string>
+    <string name="l3f">1025</string>
+    <string name="l4s">1045</string>
+    <string name="l4f">1125</string>
+    <string name="l5s">1140</string>
+    <string name="l5f">1220</string>
+    <string name="l6s">1230</string>
+    <string name="l6f">1310</string>
+    <string name="l7s">1320</string>
+    <string name="l7f">1400</string>
+</resources>
